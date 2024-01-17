@@ -1,1 +1,2 @@
-# zznn-cloud-blog-images
+# Qexo 
+Github图床管理.
